@@ -35,6 +35,7 @@ Opens a new private Firefox Developer Edition window and brings it to the front.
 
 # Changelog
 **1.0.1**: Open new windows in the current space instead of jumping to whatever space Firefox is open in.
+
 **1.0.0**: Initial release.
 
 # Credits
