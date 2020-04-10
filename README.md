@@ -33,6 +33,10 @@ Opens a new private Firefox Developer Edition window and brings it to the front.
 
 **Keyword**: fw + ⌘ (command) + ⌥ (option)
 
+# Changelog
+**1.0.1**: Open new windows in the current space instead of jumping to whatever space Firefox is open in.
+**1.0.0**: Initial release.
+
 # Credits
 
 - This workflow is highly inspired by [caiogondim's Chrome workflow](https://github.com/caiogondim/alfred-chrome-window-workflow).
